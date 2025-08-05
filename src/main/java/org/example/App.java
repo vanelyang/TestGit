@@ -18,4 +18,8 @@ public class App {
     public static void a() {
         System.out.println("aaa");
     }
+
+    public static void b() {
+        System.out.println("b");
+    }
 }
