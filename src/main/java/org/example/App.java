@@ -1,5 +1,7 @@
 package org.example;
 
+import static org.example.Utils.getM;
+
 /**
  * Hello world!
  */
@@ -8,6 +10,9 @@ public class App {
 
         a();
         System.out.println("Hello World!");
+
+        getM();
+
     }
 
     public static void a() {
